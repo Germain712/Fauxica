@@ -145,6 +145,7 @@ p.details {
 .right-col {
   display: grid;
   gap: 2.3em;
+  grid-template-columns: repeat(2, auto);
 }
 
 .card {
