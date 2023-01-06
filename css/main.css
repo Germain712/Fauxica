@@ -55,3 +55,11 @@ main {
   gap: 8em;
   margin-top: 11em;
 }
+
+.left.col {
+  width: 45%;
+}
+
+.right-col {
+  flex-grow: 1;
+}
