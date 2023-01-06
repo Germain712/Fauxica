@@ -171,3 +171,7 @@ p.details {
 .card3 {
   background-image: url("../images/clothing3.jpg");
 }
+
+.card-details {
+  background: white;
+}
