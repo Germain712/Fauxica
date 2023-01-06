@@ -53,4 +53,5 @@ nav ul li a.active:before {
 main {
   display: flex;
   gap: 8em;
+  margin-top: 11em;
 }
