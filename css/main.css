@@ -133,3 +133,8 @@ p.employees {
   margin: 0;
   font-weight: 200;
 }
+
+p.details {
+  font-size: 1.4rem;
+  margin: 0;
+}
