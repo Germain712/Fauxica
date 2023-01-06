@@ -163,3 +163,11 @@ p.details {
   grid-area: left;
   background-image: url("../images/clothing1.jpg");
 }
+
+.card2 {
+  background-image: url("../images/clothing1.jpg");
+}
+
+.card3 {
+  background-image: url("../images/clothing1.jpg");
+}
