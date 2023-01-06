@@ -139,3 +139,14 @@ p.details {
   font-size: 1.4rem;
   margin: 0;
 }
+
+/* Right Column Gallery */
+
+.right-col {
+  display: grid;
+  gap: 2.3em;
+}
+
+.card {
+  background-color: gray;
+}
