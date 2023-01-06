@@ -242,3 +242,7 @@ nav ul li a:hover:before {
 .card:hover {
   background-size: 160%;
 }
+
+.card:hover .card-details {
+  transform: translateY(-20px);
+}
