@@ -237,3 +237,7 @@ nav ul li a:hover:before {
 .secondary-cta:hover {
   text-decoration: underline;
 }
+
+.card:hover {
+  background-size: 160%;
+}
