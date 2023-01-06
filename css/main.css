@@ -112,4 +112,6 @@ h1 {
   display: flex;
   gap: 3em;
   padding: 5em;
+  border: 1px solid black;
+  border-radius: 0.8em;
 }
