@@ -70,3 +70,7 @@ h1 {
   font-weight: normal;
   margin: 0;
 }
+
+.subhead {
+  font-size: 1.8rem;
+}
