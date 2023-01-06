@@ -63,3 +63,7 @@ main {
 .right-col {
   flex-grow: 1;
 }
+
+h1 {
+  font-size: 5.2rem;
+}
