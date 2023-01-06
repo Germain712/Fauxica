@@ -123,4 +123,13 @@ h1 {
   background: url(../images/confetti.svg);
   width: 100px;
   height: 100px;
+  top: -20px;
+  left: -20px;
+  z-index: 2;
+}
+
+p.employees {
+  font-size: 3.3rem;
+  margin: 0;
+  font-weight: 200;
 }
