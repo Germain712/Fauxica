@@ -156,8 +156,10 @@ p.details {
   padding: 1.1em;
   display: flex;
   align-items: flex-end;
+  background-size: 150%;
 }
 
 .card1 {
   grid-area: left;
+  background-image: url("../images/clothing1.jpg");
 }
