@@ -121,4 +121,6 @@ h1 {
   position: absolute;
   content: "";
   background: url(../images/confetti.svg);
+  width: 100px;
+  height: 100px;
 }
