@@ -116,3 +116,8 @@ h1 {
   border-radius: 0.8em;
   position: relative;
 }
+
+.news:before {
+  position: absolute;
+  content: "";
+}
