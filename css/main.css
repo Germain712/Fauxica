@@ -55,6 +55,7 @@ nav ul li a:before {
   height: 1px;
   border-bottom: 2px solid rgb(122, 122, 122);
   bottom: -6px;
+  transition: width 0.3s;
 }
 
 /* Hero Section */
