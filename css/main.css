@@ -229,3 +229,7 @@ nav ul li a:hover:before {
 .primary-cta:hover {
   background: #e2d1bd;
 }
+
+.secondary-cta:hover svg {
+  transform: translateX(10px);
+}
