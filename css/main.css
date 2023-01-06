@@ -48,6 +48,15 @@ nav ul li a.active:before {
   bottom: -6px;
 }
 
+nav ul li a:before {
+  position: absolute;
+  content: "";
+  width: 0%;
+  height: 1px;
+  border-bottom: 2px solid rgb(122, 122, 122);
+  bottom: -6px;
+}
+
 /* Hero Section */
 
 main {
