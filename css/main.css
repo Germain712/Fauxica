@@ -28,3 +28,10 @@ nav ul {
   gap: 4.1em;
   margin: 0;
 }
+
+nav ul li a {
+  text-decoration: none;
+  color: black;
+  text-transform: uppercase;
+  font-size: 1.6rem;
+}
