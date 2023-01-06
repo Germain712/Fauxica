@@ -203,6 +203,7 @@ p.details {
   display: flex;
   align-items: center;
   justify-content: space-between;
+  transition: transform 800ms;
 }
 
 .card-details a {
