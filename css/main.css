@@ -110,4 +110,6 @@ h1 {
 
 .news {
   display: flex;
+  gap: 3em;
+  padding: 5em;
 }
