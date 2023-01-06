@@ -152,7 +152,7 @@ p.details {
 }
 
 .card {
-  background-color: gray;
+  border-radius: 0.8em;
 }
 
 .card1 {
