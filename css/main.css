@@ -225,3 +225,7 @@ p.product-price {
 nav ul li a:hover:before {
   width: 35%;
 }
+
+.primary-cta:hover {
+  background: #e2d1bd;
+}
