@@ -120,4 +120,5 @@ h1 {
 .news:before {
   position: absolute;
   content: "";
+  background: url(../images/confetti.svg);
 }
