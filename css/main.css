@@ -147,8 +147,8 @@ p.details {
   gap: 2.3em;
   grid-template-columns: repeat(2, auto);
   grid-template-areas:
-    "left right"
-    "left bottom";
+    "left ."
+    "left .";
 }
 
 .card {
