@@ -154,3 +154,7 @@ p.details {
 .card {
   background-color: gray;
 }
+
+.card1 {
+  grid-area: left;
+}
