@@ -75,6 +75,10 @@ h1 {
   font-size: 1.8rem;
 }
 
+.cta-btns {
+  margin: 5em 0;
+}
+
 .cta-btns,
 .secondary-cta {
   display: flex;
@@ -89,4 +93,16 @@ h1 {
   text-decoration: none;
   border-radius: 1.9em;
   padding: 1em 2em;
+}
+
+.secondary-cta {
+  font-size: 1.8rem;
+  text-decoration: none;
+  color: black;
+  display: block;
+  padding: 1em 0;
+}
+
+.secondary-cta svg {
+  width: 20px;
 }
