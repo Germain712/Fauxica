@@ -188,3 +188,12 @@ p.details {
   font-size: 1.6rem;
   font-weight: bold;
 }
+
+.card-details p {
+  font-size: 1.4rem;
+  margin: 0;
+}
+
+p.product-price {
+  font-size: 1.8rem;
+}
