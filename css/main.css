@@ -209,3 +209,9 @@ p.details {
 p.product-price {
   font-size: 1.8rem;
 }
+
+/* Micro Interaction */
+
+nav ul li a:hover:before {
+  width: 35%;
+}
