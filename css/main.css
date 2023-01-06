@@ -66,4 +66,6 @@ main {
 
 h1 {
   font-size: 5.2rem;
+  font-family: "Playfair Display";
+  font-weight: normal;
 }
