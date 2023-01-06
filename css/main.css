@@ -233,3 +233,7 @@ nav ul li a:hover:before {
 .secondary-cta:hover svg {
   transform: translateX(10px);
 }
+
+.secondary-cta:hover {
+  text-decoration: underline;
+}
