@@ -75,7 +75,8 @@ h1 {
   font-size: 1.8rem;
 }
 
-.cta-btns {
+.cta-btns,
+.secondary-cta {
   display: flex;
   gap: 2em;
 }
