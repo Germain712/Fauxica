@@ -132,6 +132,7 @@ p.employees {
   font-size: 3.3rem;
   margin: 0;
   font-weight: 200;
+  line-height: 100%;
 }
 
 p.details {
