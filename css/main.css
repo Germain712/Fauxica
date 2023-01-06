@@ -111,11 +111,11 @@ h1 {
   color: black;
   display: block;
   padding: 1em 0;
-  align-items: center;
 }
 
 .secondary-cta svg {
   width: 20px;
+  transition: transform 0.3s;
 }
 
 .news {
