@@ -21,3 +21,7 @@ header {
 .nav {
   margin: 4em;
 }
+
+nav ul {
+  list-style-type: none;
+}
