@@ -1,6 +1,6 @@
-# **Fauxica Premium Apparel Webpage**
+# **Fauxica Premium Apparel**
 
-## _Non Responsive_
+## _Non Responsive Static Webpage_
 
 ---
 
