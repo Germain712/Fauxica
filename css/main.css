@@ -62,16 +62,18 @@ nav ul li a:before {
 
 main {
   display: flex;
-  gap: 8em;
+  gap: 4em;
   margin-top: 11em;
 }
 
 .left-col {
-  width: 45%;
+  width: 40%;
+  margin: 3em;
 }
 
 .right-col {
   flex-grow: 1;
+  margin-right: 2em;
 }
 
 h1 {
