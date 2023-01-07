@@ -4,13 +4,13 @@
 
 ---
 
-- This is a bullet point
+- This webpage is purposely non-responsive & is meant to be viewed on desktop displays.
 
-* You can also use the shift + 8(\*) to get a bullet point
+* This webpage will NOT show correctly on mobile devices. I may add some CSS @media queries in the future to make this webpage responsive.
 
 ---
 
-[Webpage Link] (https://germain712.github.io/Fauxica/ "Link to Webpage")
+[FPA] (https://germain712.github.io/Fauxica/ "Link to Webpage")
 
 ---
 
