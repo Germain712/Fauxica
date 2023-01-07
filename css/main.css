@@ -20,7 +20,7 @@ header {
   align-items: center;
 }
 
-.nav {
+nav {
   margin: 4em;
 }
 
@@ -66,7 +66,7 @@ main {
   margin-top: 11em;
 }
 
-.left.col {
+.left-col {
   width: 45%;
 }
 
